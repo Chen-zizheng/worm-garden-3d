@@ -1,0 +1,5 @@
+# Worm Garden Adventure 3D - 运行依赖
+# 安装:  pip install -r requirements.txt
+numpy>=2.0
+Pillow>=10.0
+pygame-ce>=2.5      # 若已装 pygame 2.1+ 也可以，代码只用到 pygame 的窗口/输入/贴屏
